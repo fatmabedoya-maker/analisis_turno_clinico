@@ -1,0 +1,11 @@
+id_turno,paciente,especialidad,profesional,fecha_turno,hora_turno,tiempo_espera_min,asistió,costo_consulta
+1,Ana Gómez,Cardiología,Dr. Pérez,2025-03-10,09:30,20,Sí,15000
+2,Fátima Bedoya,Traumatología,Dra. Ruiz,2025-03-10,10:00,45,No,15000
+3,Marcos López,Cardiología,Dr. Pérez,2025-03-11,09:00,15,Sí,15000
+4,Luz Ortega,Pediatría,Dra. Gómez,2025-03-12,08:30,10,Sí,12000
+5,Camila Soto,Traumatología,Dra. Ruiz,2025-03-12,10:30,30,Sí,15000
+6,Lucas Díaz,Neurología,Dr. Ferreyra,2025-03-13,11:00,25,Sí,17000
+7,María Torres,Cardiología,Dr. Pérez,2025-03-13,09:15,35,No,15000
+8,Ignacio Vega,Pediatría,Dra. Gómez,2025-03-14,08:45,5,Sí,12000
+9,Romina Ríos,Traumatología,Dra. Ruiz,2025-03-14,11:30,40,Sí,15000
+10,Valentina Suárez,Neurología,Dr. Ferreyra,2025-03-15,10:45,20,Sí,17000
